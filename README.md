@@ -4,6 +4,10 @@ SvelteKit in 100 seconds: https://youtu.be/H1eEFfAkIik?si=eyyHcbo2co5oSGET
 
 Why Svelte is the most loved JS framework with Rich Harris: https://www.youtube.com/watch?v=q5T11E29lNQ
 
+## How data flows in SvelteKit
+
+https://www.youtube.com/watch?v=ampDDmT3TU0
+
 ## Validation
 
 Zod: https://www.okupter.com/blog/sveltekit-form-validation-with-zod
