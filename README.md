@@ -23,3 +23,7 @@ Link-staged https://davipon.hashnode.dev/add-lint-staged-to-sveltekit-project
 ## Testing
 
 https://davipon.hashnode.dev/test-svelte-component-using-vitest-playwright
+
+## Animation
+
+Animation with Svelte - https://joyofcode.xyz/animation-with-svelte
