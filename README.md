@@ -4,8 +4,9 @@ SvelteKit in 100 seconds: https://youtu.be/H1eEFfAkIik?si=eyyHcbo2co5oSGET
 
 Why Svelte is the most loved JS framework with Rich Harris: https://www.youtube.com/watch?v=q5T11E29lNQ
 
-## Runes 
+Learn Svelte – Full Course for Beginners - https://www.youtube.com/watch?v=UGBJHYpHPvA
 
+## Runes 
 
 
 ## How data flows in SvelteKit
