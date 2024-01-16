@@ -13,6 +13,10 @@ Learn Svelte – Full Course for Beginners - https://www.youtube.com/watch?v=UGB
 
 https://www.youtube.com/watch?v=ampDDmT3TU0
 
+## Forms
+
+https://www.thisdot.co/blog/handling-forms-in-svelte
+
 ## Validation
 
 Zod: https://www.okupter.com/blog/sveltekit-form-validation-with-zod
