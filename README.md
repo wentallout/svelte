@@ -6,8 +6,13 @@ Why Svelte is the most loved JS framework with Rich Harris: https://www.youtube.
 
 Learn Svelte – Full Course for Beginners - https://www.youtube.com/watch?v=UGBJHYpHPvA
 
+## Performance
+
+https://sveltekit.io/blog/make-your-sveltekit-app-faster
+
 ## Runes 
 
+???
 
 ## How data flows in SvelteKit
 
