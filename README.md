@@ -37,3 +37,8 @@ https://davipon.hashnode.dev/test-svelte-component-using-vitest-playwright
 ## Animation
 
 Animation with Svelte - https://joyofcode.xyz/animation-with-svelte
+
+## Upgrade to Svelte 5
+
+https://gitcontext.com/blog/svelte-5-upgrade
+
